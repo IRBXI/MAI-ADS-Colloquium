@@ -46,7 +46,7 @@ int max(int a, int b){
     return b;
 }
 int main(){
-    std::cout << max<int>(1, 10) << '\n'; //2
+    std::cout << max<int>(1, 10) << '\n'; //1
     return 0;
 }
 ```
